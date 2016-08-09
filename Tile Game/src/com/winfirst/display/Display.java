@@ -1,4 +1,4 @@
-package dev.basicgame.tilegame.display;
+package com.winfirst.display;
 
 import java.awt.Canvas;
 import java.awt.Dimension;

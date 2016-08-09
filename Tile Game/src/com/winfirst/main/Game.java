@@ -1,6 +1,6 @@
-package dev.basicgame.tilegame;
+package com.winfirst.main;
 
-import dev.basicgame.tilegame.display.Display;
+import com.winfirst.display.Display;
 
 public class Game {
 	
